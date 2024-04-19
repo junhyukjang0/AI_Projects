@@ -11,4 +11,9 @@
 **describe_charts.ipynb** : Create and save chart interpretation questions along with their correct answers, allowing AI to assess user responses effectively.
 
 ## Writing Test
-**dictation.ipynb** : 
+**dictation.ipynb** : Generate everyday sentences likely to appear in an English dictation test and save their answers along with audio files.
+
+ **other_writing_exams.ipynb** : Create questions likely to appear in an English writing test for tasks such as replying to an email, summarizing a prompt, and writing your opinion, and save the answers.
+ 
+ ## Function
+ **utils.py** : Functions employed for this project.
