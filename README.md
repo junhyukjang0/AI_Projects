@@ -1,3 +1,3 @@
-# AI_Projects
+# AI Projects
 
 Repository for AI English Tutor Development
