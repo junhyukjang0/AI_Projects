@@ -1,5 +1,8 @@
 # AI Projects
 
+## Execution File
+**speaking_writing_exam.py** : Execution code to run the AI Speaking & Writing Tutor. (streamlit run speaking_writing_exam.py)
+
 ## Speaking Test
 **listen_and_answer_the_question.ipynb** : Create topics for a speaking exam and generate corresponding audio files. Store these topics to ensure that the AI examiner can present exam topics to users quickly and without any delay.
 
