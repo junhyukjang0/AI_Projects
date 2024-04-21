@@ -1,6 +1,9 @@
 # Writing Speaking Practice AI
 **Demonstration Video URL** :  https://youtu.be/tJ-JmxiTZIU
 
+**Description** : This service is composed of two parts: speaking and writing. For the speaking part, there are five types of questions available. The first type involves hearing an English question from the AI agent and responding properly. The second type tests if users can express their opinions logically. The third type involves discussing sensitive topics presented by the AI examiner and testing the user’s ability to engage in critical thinking. The fourth type evaluates the user's ability to correctly describe a picture given by the AI. The last type evaluates whether the user can understand and interpret a given chart or graph and explain it in English.
+The writing test is structured as follows: Firstly, it tests whether users can accurately transcribe spoken English. Secondly, it evaluates whether users can respond properly to an email provided by the AI. Thirdly, it assesses whether users can effectively summarize a given text in English. Lastly, the test involves having users write on a given topic, and then the Large Language Model (LLM) evaluates the writing by considering both the topic and the content, providing feedback accordingly.
+
 ## Execution File
 **speaking_writing_exam.py** : Execution code to run the AI Speaking & Writing Tutor. (streamlit run speaking_writing_exam.py)
 
