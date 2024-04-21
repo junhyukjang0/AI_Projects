@@ -5,5 +5,5 @@
 **To execute** : streamlit main.py
 		    
 **main.py** : Used Streamlit  to serve  AI-powered English language assistant. The script utilizes OpenAI's GPT-4 through the LangChain libraries.
-
+It offers functionalities such as grammar checking, proofreading, and evaluating English proficiency.
 
