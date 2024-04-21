@@ -1,4 +1,4 @@
-# AI Grammar Teacher
+# Word Recommendation AI
 **Demonstration Video URL** :  https://youtu.be/tJ-JmxiTZIU
 
 ## Execution File
