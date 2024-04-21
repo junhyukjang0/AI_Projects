@@ -1,4 +1,4 @@
-# AI Projects
+# AI Grammar Teacher
 **Demonstration Video URL** :  https://youtu.be/tJ-JmxiTZIU
 
 ## Execution File
